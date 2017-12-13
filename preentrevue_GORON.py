@@ -18,4 +18,5 @@ def test():
     return("aucune valeur superieure avec les chiffres renseignés ") #Cas ou l'on a atteint la valeur maximale avec les chiffres renseignés
                       
         
-
+while(1):                                                #Boucle lancant la fonction en boucle
+    test()
